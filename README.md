@@ -13,6 +13,12 @@ The second requirement can be readily fulfilled for an acyclic signal by adding 
 
 Furthermore, to suppress the boundary effect, a fake-repeat trick is suggested as shown in the example file.
 
+--------------------------------------------------------
+***Update in 2022-12-04***
+--------------------------------------------------------
+
+Odd-Parity Extrapolation Technique is used in this version, which leads to the conservation of derivative information of the raw data.
+
 # association law in wavelet transform
 
 Let $g_\sigma(t)$ be a wavelet function, i.e.,
